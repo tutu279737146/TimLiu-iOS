@@ -1175,6 +1175,7 @@ A curated list of iOS objective-C ecosystem.
 * [HMSegmentedControl](https://github.com/HeshamMegid/HMSegmentedControl) - 一个比较好用的第三方分段控制器.
 * [XHTwitterPaggingViewer](https://github.com/xhzengAIB/XHTwitterPaggingViewer) - A twitter like navigation bar, page viewer.
 * [SPPage](https://github.com/xichen744/SPPage) - 高性能PageController.
+* [VTMagic](https://github.com/tianzhuo112/VTMagic) - 一个高度封装定制的分页器,使用步骤很详细,相对来说较重量级.
 
 #### 轮播@
 
